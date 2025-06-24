@@ -132,7 +132,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monica-r56&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=monica-r56&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monica-r56&" alt="monica-r56" /></p>
 
