@@ -46,8 +46,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
+  <a href="[https://expressjs.com](https://www.google.com/imgres?q=express%20js%20logo&imgurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fexpress-logo.png&imgrefurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fexpressjs-tutorial%2F&docid=X-rCRRt-Kwms2M&tbnid=7_geg25YOQenJM&vet=12ahUKEwiw-4-ZuomOAxUBzzgGHXNQGKcQM3oECFIQAA..i&w=1102&h=500&hcb=2&ved=2ahUKEwiw-4-ZuomOAxUBzzgGHXNQGKcQM3oECFIQAA)" target="_blank" rel="noreferrer">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg](https://expressjs.com](https://www.google.com/imgres?q=express%20js%20logo&imgurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fexpress-logo.png&imgrefurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fexpressjs-tutorial%2F&docid=X-rCRRt-Kwms2M&tbnid=7_geg25YOQenJM&vet=12ahUKEwiw-4-ZuomOAxUBzzgGHXNQGKcQM3oECFIQAA..i&w=1102&h=500&hcb=2&ved=2ahUKEwiw-4-ZuomOAxUBzzgGHXNQGKcQM3oECFIQAA)" alt="express" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
@@ -56,10 +56,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/6017/6017566.png" alt="rest api" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
   </a>
   <a href="https://hasura.io/" target="_blank" rel="noreferrer">
-    <img src="https://hasura.io/favicon-96x96.png" alt="hasura" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
+    <img src="[https://hasura.io/favicon-96x96.png](https://www.google.com/imgres?q=hasura%20logo&imgurl=https%3A%2F%2Fimages.hasgeek.com%2Fembed%2Ffile%2Fe113114163b44a55a1c78f187d54768c%3Fsize%3D250&imgrefurl=https%3A%2F%2Fimages.hasgeek.com%2Fjsfoo%2Fview%2Fe113114163b44a55a1c78f187d54768c&docid=Q2kNIRnBEF9G1M&tbnid=EidLHJ9FUcCWvM&vet=12ahUKEwikxM7juomOAxVXyzgGHTj_MI0QM3oECE8QAA..i&w=250&h=277&hcb=2&ved=2ahUKEwikxM7juomOAxVXyzgGHTj_MI0QM3oECE8QAA)" alt="hasura" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
   </a>
   <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/storybookjs/storybookjs-icon.svg" alt="storybook" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
+    <img src="[https://www.vectorlogo.zone/logos/storybookjs/storybookjs-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F94943%2Fstorybook-icon&psig=AOvVaw3SA54a_ornmZTqClWxbZJ6&ust=1750833994835000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj384a7iY4DFQAAAAAdAAAAABAE)" alt="storybook" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="background-color:#f0f0f0; padding:5px; border-radius:8px;" />
